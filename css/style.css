@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(107, 231, 240);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.topo{
+    background-color: rgb(190, 127, 241);
+    color: rgb(0, 0, 0);
+}
+#topo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.topo a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+}
+.navbar a{
+    padding: 10px;
+}
+.navbar a:hover{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.conteudo-rosa{
+    background-color: rgb(233, 129, 229);
+}
+.conteudo-blue{
+    background-color: rgb(110, 110, 218);
+}
+h1{
+    color: rgb(16, 82, 16);
+    text-align: center;
+}

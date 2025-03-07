@@ -1,0 +1,17 @@
+body{
+    background-color: darkred;
+}
+.navbar ul{
+    
+    list-style: none;
+}
+.navbar a{
+    padding: 10px;
+}
+.navbar a:hover{
+    background-color: rgb(87, 3, 3);
+    border-radius: 20px;
+}
+.navbar a{
+    transition: color 500ms ease-in-out;
+}
